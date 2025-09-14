@@ -1,5 +1,14 @@
 # Ez az első módosítás
 
+nev = "Szabó Dániel József"
+hallgatoi_kod = "K4RBFO"
+monogram = "SD"
+
+print("Név:", nev)
+print("Hallgatói kód:", hallgatoi_kod)
+print("Monogram:", monogram)
+
+
 # Press Shift+F10 to execute it or replace it with your code.
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 
